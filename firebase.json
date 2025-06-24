@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"joblynx",
+    "site":"joblynx-66edf",
     "public": "public",
     "ignore": [
       "firebase.json",
